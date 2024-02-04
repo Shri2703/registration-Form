@@ -1,7 +1,7 @@
 #REGISTRATION FORM
 
 
-using html,css,js,node.js,express,MongoDB...
+using html,css,js,node.js,express,MongoDB.
 
 
 
