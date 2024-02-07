@@ -50,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Feel free to customize the README with additional details, instructions, or sections as needed for your project.
+
 
 
 
