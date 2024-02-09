@@ -1,6 +1,4 @@
-Certainly! Here's a GitHub README template tailored to your project:
 
----
 
 # Registration Form Project
 
