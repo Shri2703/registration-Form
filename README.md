@@ -3,7 +3,7 @@
 
 The Registration Form Project is a full-stack web application developed using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. It provides a user-friendly interface for users to register by filling out essential information such as username, email, and password. The project aims to demonstrate the implementation of a registration form with server-side validation and data storage in a MongoDB database.
 
- <a href="https://registration-form-ll1s.onrender.com"   target="blank"> CLICK HERE!!</a> for demo
+ <a href="https://registration-form-ll1s.onrender.com"   target="_blank"> CLICK HERE!!</a> for demo
 
 
 ## Table of Contents
